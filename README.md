@@ -12,10 +12,11 @@
 ---
 
 ### ⚡ About Me
-I am a Computer Science student driven by the challenge of solving complex problems through code. Currently, I'm deep-diving into **Advanced JavaScript** and **AI Integrations** to build smarter, more scalable web applications.
+I am a Computer Science student graduating in 2027. I am driven by the challenge of solving complex problems through code and am currently deep-diving into **Advanced JavaScript** and **AI Integrations**.
 
-- 🏆 **Achievement:** LeetCode 100 Days Badge (2025)
-- 💬 **Ask me about:** Data Structures, MERN Stack, or C++
+- 🚀 **Main Project:** [FlavorFeed](https://github.com/lumen-byte/flavorFeed) — A social-food hybrid platform.
+- 🏆 **Achievement:** Completed the LeetCode 100 Days Badge for 2025.
+- 💬 **Ask me about:** Data Structures, MERN Stack, or C++.
 - 📄 **My Resume:** [View PDF](https://drive.google.com/file/d/1YLOI7CDIevK3LMpIpBkbQf0NcvtVCoE2/view?usp=sharing)
 
 ---
@@ -34,7 +35,7 @@ I am a Computer Science student driven by the challenge of solving complex probl
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `C++`, `JavaScript (ES6+)`, `Python`, `SQL` |
+| **Languages** | `C++`, `JavaScript`, `Python`, `SQL` |
 | **Frontend** | `React.js`, `HTML5`, `CSS3`, `Tailwind CSS` |
 | **Backend** | `Node.js`, `Express.js`, `REST APIs` |
 | **Database** | `MongoDB`, `MySQL` |
@@ -55,14 +56,14 @@ I am a Computer Science student driven by the challenge of solving complex probl
 
 ### 📈 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhimanyusingh-0&show_icons=true&theme=tokyonight&title_color=9370DB&text_color=ffffff&icon_color=9370DB&border_color=4B0082" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyusingh-0&layout=compact&theme=tokyonight&title_color=9370DB&text_color=ffffff&icon_color=9370DB&border_color=4B0082" width="39%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lumen-byte&show_icons=true&theme=tokyonight&title_color=9370DB&text_color=ffffff&icon_color=9370DB&border_color=4B0082" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumen-byte&layout=compact&theme=tokyonight&title_color=9370DB&text_color=ffffff&icon_color=9370DB&border_color=4B0082" width="39%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhimanyusingh-0&theme=react-dark&area=true&hide_border=true&color=9370DB" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lumen-byte&theme=react-dark&area=true&hide_border=true&color=9370DB" width="100%" />
 </div>
 
 ---
