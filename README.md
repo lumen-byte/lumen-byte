@@ -1,9 +1,9 @@
 <h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
   <span>
-    👋 Hi, I'm 
+    Hi, I'm 
     <span style="background: linear-gradient(90deg, #43cea2, #185a9d); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
       Abhimanyu Pratap Singh
-    </span> 🚀
+    </span>
   </span>
 </h1>
 
