@@ -4,7 +4,7 @@
   <p>
     <a href="https://www.linkedin.com/in/abhimanyupratapsingh2004/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:abhimanyu2004111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://drive.google.com/file/d/1YLOI7CDIevK3LMpIpBkbQf0NcvtVCoE2/view?usp=sharing"><img src="https://img.shields.io/badge/Technical_Resume-4B0082?style=flat-square&logo=read-the-docs&logoColor=white" /></a>
+    <a href="https://drive.google.com/file/d/1phBFewb-3UVHy7zp7N6TIwzCYVDTBEs0/view?usp=sharing"><img src="https://img.shields.io/badge/Technical_Resume-4B0082?style=flat-square&logo=read-the-docs&logoColor=white" /></a>
   </p>
 </div>
 
