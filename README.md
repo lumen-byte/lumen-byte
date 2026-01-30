@@ -43,7 +43,14 @@ Computer Science Engineer (Class of 2027) specializing in the development of sca
 
 ### 📈 Technical Contributions & Metrics
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhimanyusingh-0&theme=react-dark&area=true&hide_border=false&color=9370DB&point=4B0082" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lumen-byte&show_icons=true&theme=transparent&title_color=9370DB&text_color=ffffff&icon_color=9370DB&border_color=4B0082&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumen-byte&layout=compact&theme=transparent&title_color=9370DB&text_color=ffffff&icon_color=9370DB&border_color=4B0082" width="39%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lumen-byte&theme=react-dark&area=true&hide_border=false&color=9370DB&point=4B0082" width="100%" />
 </div>
 
 ---
