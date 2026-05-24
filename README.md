@@ -13,9 +13,9 @@
 ### 💼 Internship Objective
 Pre-final year B.Tech CSE student (2027) engineering high-availability web architectures. Specialized in the **MERN Stack** with a rigorous focus on **System Design** and **Algorithmic Optimization**. Seeking an internship to contribute to scalable backend systems and high-concurrency media infrastructures.
 
-- 🚀 **Quantitative Metric:** Solved [**500+ Problems across Competitive Programming Platforms**](https://codolio.com/profile/lumenbyte)
-- 🛠 **Expertise:** Production-grade Backend Architectures & Media Delivery Pipelines
-- 🏅 **Recognition:** LeetCode 100 Days Achievement (2025)
+-  **Quantitative Metric:** Solved [**500+ Problems across Competitive Programming Platforms**](https://codolio.com/profile/lumenbyte)
+-  **Expertise:** Production-grade Backend Architectures & Media Delivery Pipelines
+-  **Recognition:** LeetCode 100 Days Achievement (2025)
 
 ---
 
@@ -49,7 +49,7 @@ Pre-final year B.Tech CSE student (2027) engineering high-availability web archi
 
 ---
 
-### 🏆 Problem Solving Verification
+###  Problem Solving Verification
 <div align="center">
   <br/>
   <a href="https://leetcode.com/u/lumenbyte/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
