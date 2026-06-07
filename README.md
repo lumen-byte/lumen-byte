@@ -1,4 +1,4 @@
-<div align="cente">
+<div align="centerr">
   <h1>Abhimanyu Pratap Singh</h1>
   <p><strong>Software Engineer Intern  |  MERN Stack & Cloud Systems Specialist</strong></p>
   <p>
