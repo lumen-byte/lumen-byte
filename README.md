@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Abhimanyu Pratap Singh</h1>
-  <p><strong>Software Engineer Intern  |  MERN Stack & Cloud Systems Specialist</strong></p>
+  <p><strong>Software Engineering  |  MERN Stack & Cloud Systems Specialist</strong></p>
   <p>
     <a href="https://www.linkedin.com/in/abhimanyupratapsingh2004/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:abhimanyu2004111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
