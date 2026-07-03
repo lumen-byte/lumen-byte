@@ -19,14 +19,20 @@ Pre-final year B.Tech CSE student (2027) engineering high-availability web archi
 
 ---
 
-### 📂 Primary Engineering Project: FlavorFeed
-**Social-Food Hybrid Infrastructure** | [**View Source**](https://github.com/lumen-byte/flavorFeed)
-*Building a "Reels-style" video delivery engine for food discovery.*
+# Codexa
+**AI-powered RAG platform for understanding Python codebases using semantic retrieval and grounded code generation.**
 
-* **Architected** a media delivery pipeline utilizing **ImageKit** for optimized, low-latency video streaming.
-* **Engineered** a secure, dual-role **JWT authentication architecture** to segregate Food Partner and Consumer data flows.
-* **Optimized** data persistence using **MongoDB**, ensuring efficient handling of high-volume concurrent metadata.
-* **Outcome:** Developed a scalable prototype ready for high-traffic media consumption.
+Codexa enables developers to understand large Python GitHub repositories through retrieval-augmented generation (RAG), providing grounded answers with precise code citations.
+
+Built to help developers understand unfamiliar repositories using retrieval-augmented generation (RAG), syntax-aware parsing, and semantic search.
+
+---
+
+## Demo
+
+Live URL - https://codexarag.vercel.app/
+
+GitHub - https://github.com/lumen-byte/Codexa--RAG-Based-Codebase-Assistant
 
 ---
 
