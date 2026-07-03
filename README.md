@@ -1,70 +1,110 @@
 <div align="center">
-  <h1>Abhimanyu Pratap Singh</h1>
-  <p><strong>Software Engineering  |  MERN Stack & Cloud Systems Specialist</strong></p>
-  <p>
-    <a href="https://www.linkedin.com/in/abhimanyupratapsingh2004/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:abhimanyu2004111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://drive.google.com/file/d/1Q3R0sq-WE6g-KYXtK-zWNSSWeiJ4jEoW/view?usp=sharing"><img src="https://img.shields.io/badge/Technical_Resume-4B0082?style=flat-square&logo=read-the-docs&logoColor=white" /></a>
-  </p>
+
+# Abhimanyu Pratap Singh
+
+**Backend Engineer · AI Systems · RAG Pipelines · LLM Applications**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhimanyupratapsingh2004/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhimanyu2004111@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4B0082?style=flat-square&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1Q3R0sq-WE6g-KYXtK-zWNSSWeiJ4jEoW/view?usp=sharing)
+[![LeetCode](https://img.shields.io/badge/LeetCode_350+-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://codolio.com/profile/lumenbyte)
+
 </div>
 
 ---
 
-###  Internship Objective
-Pre-final year B.Tech CSE student (2027) engineering high-availability web architectures. Specialized in the **MERN Stack** with a rigorous focus on **System Design** and **Algorithmic Optimization**. Seeking an internship to contribute to scalable backend systems and high-concurrency media infrastructures.
+## About
 
--  **Quantitative Metric:** Solved [**700+ Problems across multiple Competitive Programming Platforms**](https://codolio.com/profile/lumenbyte)
--  **Expertise:** Production-grade Backend Architectures & Media Delivery Pipelines
--  **Recognition:** LeetCode 100 Days Achievement (2025)
+Pre-final year B.Tech CSE student building production-grade AI systems and backend infrastructure. My work sits at the intersection of **retrieval-augmented generation**, **agentic AI**, and **scalable backend engineering**.
 
----
+I do not build demos. I build systems — with proper architecture, vector search, async APIs, and deployment pipelines.
 
-# Codexa
-**AI-powered RAG platform for understanding Python codebases using semantic retrieval and grounded code generation.**
-
-Codexa enables developers to understand large Python GitHub repositories through retrieval-augmented generation (RAG), providing grounded answers with precise code citations.
-
-Built to help developers understand unfamiliar repositories using retrieval-augmented generation (RAG), syntax-aware parsing, and semantic search.
+Currently focused on: `Python` · `FastAPI` · `RAG Pipelines` · `LangChain` · `LangGraph` · `Vector Databases`
 
 ---
 
-## Demo
+## Featured Project
 
-Live URL - https://codexarag.vercel.app/
+### Codexa — AI Codebase Assistant (RAG-Based)
 
-GitHub - https://github.com/lumen-byte/Codexa--RAG-Based-Codebase-Assistant
+> Ask any question about a Python GitHub repository in plain English. Get precise, cited answers.
+
+Codexa indexes entire GitHub repositories using syntax-aware code parsing (tree-sitter), generates embeddings for every function and class, stores them in a vector database, and retrieves grounded answers with exact file and line citations.
+
+**This is not a chatbot wrapper. It is a retrieval system built on real engineering decisions.**
+
+| Component | Choice | Reason |
+|-----------|--------|--------|
+| Code Parsing | tree-sitter | AST-aware chunking by function/class, not arbitrary splits |
+| Vector DB | Qdrant | Production-grade, better than Chroma for real workloads |
+| Embeddings | Gemini Embeddings | Cost-effective, high quality |
+| LLM | Groq (LLaMA) | Fast inference, free tier for development |
+| Backend | FastAPI (async) | Non-blocking I/O for concurrent retrieval |
+| Database | PostgreSQL | Query history, user metadata |
+| Deployment | Docker + Vercel | Portable, reproducible |
+
+**What makes it hard (and worth talking about in interviews):**
+- Code cannot be chunked like prose — functions must stay intact. tree-sitter parses the AST to split by logical code units, not character count.
+- Cross-file context: when a function calls another, both are retrieved together, not in isolation.
+- Rate-limited API calls handled via a custom token-bucket rate limiter with local embedding fallback.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square)](https://codexarag.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lumen-byte/Codexa--RAG-Based-Codebase-Assistant)
 
 ---
 
-### 💻 Technical Proficiency Matrix
+## Technical Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `C++`, `JavaScript (ES6+)`, `Python`, `SQL` |
-| **Frontend** | `React.js`, `HTML5`, `CSS3`, `Tailwind CSS`, `Vite` |
-| **Backend** | `Node.js`, `Express.js`, `RESTful API Design` |
-| **Database** | `MongoDB (NoSQL)`, `MySQL (RDBMS)`, `Redis` |
-| **Cloud/Tools** | `Microsoft Azure`, `Git`, `Docker`, `VS Code`, `Postman` |
+```
+AI / RAG          Python · LangChain · LangGraph · RAG Pipelines
+                  Qdrant · Vector Embeddings · Prompt Engineering
+
+Backend           FastAPI · RESTful API Design · Async Python
+                  PostgreSQL · SQLAlchemy · JWT Auth · Docker
+
+Languages         C++ · Python · JavaScript (ES6+) · SQL
+
+Prior Stack       Node.js · Express.js · React.js · MongoDB · Redis
+
+Cloud / Tools     Microsoft Azure · Git · Postman · VS Code
+```
 
 ---
 
-### 📈 Technical Activity Graph
+## Problem Solving
+
+700+ problems across competitive programming platforms. Strong in graphs, dynamic programming, and tree problems.
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/lumenbyte/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/lumenbyte/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/lumenbyte)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/lumenbyte)
+
+---
+
+## Activity
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lumen-byte&theme=react-dark&area=true&hide_border=false&color=9370DB&point=4B0082" width="100%" />
 </div>
 
 ---
 
-###  Problem Solving Verification
-<div align="center">
-  <br/>
-  <a href="https://leetcode.com/u/lumenbyte/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/lumenbyte/"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/lumenbyte"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/lumenbyte"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
-</div>
+## What I Am Building Toward
+
+```
+Current         RAG-based codebase intelligence (Codexa)
+Next            Agentic AI systems — multi-step reasoning, tool use, LangGraph
+Goal            Backend + AI Engineer at a product company
+                building systems that actually ship
+```
 
 ---
+
 <div align="center">
-  <sub>"Translating complex logic into scalable, impactful architectural solutions."</sub>
+  <sub>Open to internships and entry-level roles in Backend Engineering and AI Engineering.</sub>
+  <br/>
+  <sub>
+    <a href="mailto:abhimanyu2004111@gmail.com">abhimanyu2004111@gmail.com</a>
+  </sub>
 </div>
