@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhimanyupratapsingh2004/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhimanyu2004111@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4B0082?style=flat-square&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1Q3R0sq-WE6g-KYXtK-zWNSSWeiJ4jEoW/view?usp=sharing)
-[![LeetCode](https://img.shields.io/badge/LeetCode_350+-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://codolio.com/profile/lumenbyte)
+[![LeetCode](https://img.shields.io/badge/LeetCode_450+-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://codolio.com/profile/lumenbyte)
 
 </div>
 
