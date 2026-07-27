@@ -15,7 +15,7 @@
 
 ## About
 
-Pre-final year B.Tech CSE student building production-grade AI systems and backend infrastructure. My work sits at the intersection of **retrieval-augmented generation**, **agentic AI**, and **scalable backend engineering**.
+Final year B.Tech CSE student building production-grade AI systems and backend infrastructure. My work sits at the intersection of **retrieval-augmented generation**, **agentic AI**, and **scalable backend engineering**.
 
 I do not build demos. I build systems — with proper architecture, vector search, async APIs, and deployment pipelines.
 
