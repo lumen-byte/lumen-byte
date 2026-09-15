@@ -42,7 +42,11 @@ Full-stack app (React + FastAPI + PostgreSQL) tracking budgets across 5 departme
 
 ### 🛠️ Stack
 
-
+AI / RAG Python · LangChain · RAG Pipelines · Vector Search (Qdrant, FAISS)
+Backend FastAPI · REST API Design · Async Python · PostgreSQL · SQLAlchemy · JWT · Docker
+Frontend React · Next.js · TypeScript · Tailwind CSS
+Languages C++ · Python · JavaScript (ES6+) · TypeScript · SQL
+Tools Git · GitHub · Postman · Render · Vercel
 ---
 
 ### 🧩 Problem Solving
