@@ -1,79 +1,53 @@
 <div align="center">
 
-# Abhimanyu Pratap Singh
+# Hi, I'm Abhimanyu 👋
 
-**Backend Engineer · AI Systems · RAG Pipelines · LLM Applications**
+**Full-Stack Engineer · Backend-Focused · AI Systems Builder**
+
+*I build systems that ship — not demos that impress for five minutes.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhimanyupratapsingh2004/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhimanyu2004111@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4B0082?style=flat-square&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1Q3R0sq-WE6g-KYXtK-zWNSSWeiJ4jEoW/view?usp=sharing)
-[![LeetCode](https://img.shields.io/badge/LeetCode_450+-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://codolio.com/profile/lumenbyte)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-gold-sigma-156v73ehng.vercel.app/)
 
 </div>
 
 ---
 
-## About
+### About
 
-Final year B.Tech CSE student building production-grade AI systems and backend infrastructure. My work sits at the intersection of **retrieval-augmented generation**, **agentic AI**, and **scalable backend engineering**.
+Final-year B.Tech CSE student who builds full-stack products end-to-end — React on the front, FastAPI/PostgreSQL doing the real work on the back — and occasionally lets an LLM near the system, under strict supervision.
 
-I do not build demos. I build systems — with proper architecture, vector search, async APIs, and deployment pipelines.
+Three production systems, one recurring theme: **the model doesn't get to guess — the database does the work, the model just explains it.**
 
-Currently focused on: `Python` · `FastAPI` · `RAG Pipelines` · `LangChain` · `LangGraph` · `Vector Databases`
-
----
-
-## Featured Project
-
-### Codexa — AI Codebase Assistant (RAG-Based)
-
-> Ask any question about a Python GitHub repository in plain English. Get precise, cited answers.
-
-Codexa indexes entire GitHub repositories using syntax-aware code parsing (tree-sitter), generates embeddings for every function and class, stores them in a vector database, and retrieves grounded answers with exact file and line citations.
-
-**This is not a chatbot wrapper. It is a retrieval system built on real engineering decisions.**
-
-| Component | Choice | Reason |
-|-----------|--------|--------|
-| Code Parsing | tree-sitter | AST-aware chunking by function/class, not arbitrary splits |
-| Vector DB | Qdrant | Production-grade, better than Chroma for real workloads |
-| Embeddings | Gemini Embeddings | Cost-effective, high quality |
-| LLM | Groq (LLaMA) | Fast inference, free tier for development |
-| Backend | FastAPI (async) | Non-blocking I/O for concurrent retrieval |
-| Database | PostgreSQL | Query history, user metadata |
-| Deployment | Docker + Vercel | Portable, reproducible |
-
-**What makes it hard (and worth talking about in interviews):**
-- Code cannot be chunked like prose — functions must stay intact. tree-sitter parses the AST to split by logical code units, not character count.
-- Cross-file context: when a function calls another, both are retrieved together, not in isolation.
-- Rate-limited API calls handled via a custom token-bucket rate limiter with local embedding fallback.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square)](https://codexarag.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lumen-byte/Codexa--RAG-Based-Codebase-Assistant)
 
 ---
 
-## Technical Stack
+### 🚀 Projects
 
-```
-AI / RAG          Python · LangChain · LangGraph · RAG Pipelines
-                  Qdrant · Vector Embeddings · Prompt Engineering
+**[Codexa](https://codexarag.vercel.app/)** — Ask any question about a Python codebase in plain English, get cited answers.
+FastAPI backend parses repos with Tree-sitter into AST-aware chunks, batches embeddings to dodge API rate limits, retrieves via Qdrant, and cites exact file/line sources. Migrated inference from local Ollama to Groq for production latency.
+`FastAPI` `Qdrant` `Tree-sitter` `Groq/LLaMA` `PostgreSQL` `Next.js` `Docker`
+[Live Demo](https://codexarag.vercel.app/) · [Code](https://github.com/lumen-byte/Codexa--RAG-Based-Codebase-Assistant)
 
-Backend           FastAPI · RESTful API Design · Async Python
-                  PostgreSQL · SQLAlchemy · JWT Auth · Docker
+**Finora** — A financial SaaS dashboard where the AI copilot never does the math itself.
+Full-stack app (React + FastAPI + PostgreSQL) tracking budgets across 5 departments; user asks a question → LLM triggers a backend SQL aggregation → PostgreSQL computes the real number → model just explains it. Ships a Z-score-based anomaly detector, not a hardcoded threshold.
+`React` `TypeScript` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
 
-Languages         C++ · Python · JavaScript (ES6+) · SQL
-
-Prior Stack       Node.js · Express.js · React.js · MongoDB · Redis
-
-Cloud / Tools     Microsoft Azure · Git · Postman · VS Code
-```
+**Intelligence** — Conversational Q&A over documents, with a self-corrective validation pass so it checks itself before answering.
+`Python` `Flask` `FAISS` `Docker`
 
 ---
 
-## Problem Solving
+### 🛠️ Stack
 
-700+ problems across competitive programming platforms. Strong in graphs, dynamic programming, and tree problems.
+
+---
+
+### 🧩 Problem Solving
+
+800+ problems solved across platforms, 450+ on LeetCode — outperforming 99% of LeetCode users.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/lumenbyte/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/lumenbyte/)
@@ -82,7 +56,7 @@ Cloud / Tools     Microsoft Azure · Git · Postman · VS Code
 
 ---
 
-## Activity
+### 📊 Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lumen-byte&theme=react-dark&area=true&hide_border=false&color=9370DB&point=4B0082" width="100%" />
@@ -90,21 +64,8 @@ Cloud / Tools     Microsoft Azure · Git · Postman · VS Code
 
 ---
 
-## What I Am Building Toward
-
-```
-Current         RAG-based codebase intelligence (Codexa)
-Next            Agentic AI systems — multi-step reasoning, tool use, LangGraph
-Goal            Backend + AI Engineer at a product company
-                building systems that actually ship
-```
-
----
-
 <div align="center">
-  <sub>Open to internships and entry-level roles in Backend Engineering and AI Engineering.</sub>
-  <br/>
-  <sub>
-    <a href="mailto:abhimanyu2004111@gmail.com">abhimanyu2004111@gmail.com</a>
-  </sub>
+  <sub>Also co-authored an IEEE-accepted paper on ML-based decision models for mobile edge computing.</sub>
+  <br/><br/>
+  <sub>Open to Full-Stack and Backend Engineering roles — <a href="mailto:abhimanyu2004111@gmail.com">let's talk</a></sub>
 </div>
