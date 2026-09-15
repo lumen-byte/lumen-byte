@@ -64,17 +64,3 @@ Tools           Git · GitHub · Postman · Render · Vercel
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/lumenbyte)
 
 ---
-
-### 📊 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lumen-byte&theme=react-dark&area=true&hide_border=false&color=9370DB&point=4B0082" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <sub>Also co-authored an IEEE-accepted paper on ML-based decision models for mobile edge computing.</sub>
-  <br/><br/>
-  <sub>Open to Full-Stack and Backend Engineering roles — <a href="mailto:abhimanyu2004111@gmail.com">let's talk</a></sub>
-</div>
