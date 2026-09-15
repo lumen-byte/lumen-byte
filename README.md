@@ -20,3 +20,33 @@
 Final-year B.Tech CSE student who builds full-stack products end-to-end — React on the front, FastAPI/PostgreSQL doing the real work on the back — and occasionally lets an LLM near the system, under strict supervision.
 
 Three production systems, one recurring theme: **the model doesn't get to guess — the database does the work, the model just explains it.**
+
+
+---
+
+### 🚀 Projects
+
+**[Codexa](https://codexarag.vercel.app/)** — Ask any question about a Python codebase in plain English, get cited answers.
+FastAPI backend parses repos with Tree-sitter into AST-aware chunks, batches embeddings to dodge API rate limits, retrieves via Qdrant, and cites exact file/line sources. Migrated inference from local Ollama to Groq for production latency.
+`FastAPI` `Qdrant` `Tree-sitter` `Groq/LLaMA` `PostgreSQL` `Next.js` `Docker`
+[Live Demo](https://codexarag.vercel.app/) · [Code](https://github.com/lumen-byte/Codexa--RAG-Based-Codebase-Assistant)
+
+**Finora** — A financial SaaS dashboard where the AI copilot never does the math itself.
+Full-stack app (React + FastAPI + PostgreSQL) tracking budgets across 5 departments; user asks a question → LLM triggers a backend SQL aggregation → PostgreSQL computes the real number → model just explains it. Ships a Z-score-based anomaly detector, not a hardcoded threshold.
+`React` `TypeScript` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
+
+**Intelligence** — Conversational Q&A over documents, with a self-corrective validation pass so it checks itself before answering.
+`Python` `Flask` `FAISS` `Docker`
+
+---
+
+### 🛠️ Stack
+Backend         FastAPI · REST API Design · Async Python · PostgreSQL · SQLAlchemy · JWT · Docker
+
+Frontend        React · Next.js · TypeScript · HTML5/CSS3 · Tailwind CSS
+
+AI / RAG        Python · LangChain · RAG Pipelines · Vector Search (Qdrant, FAISS)
+
+Languages       C++ · Python · JavaScript (ES6+) · TypeScript · SQL
+
+Tools           Git · GitHub · Postman · Render · Vercel
