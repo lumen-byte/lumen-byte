@@ -50,3 +50,31 @@ AI / RAG        Python · LangChain · RAG Pipelines · Vector Search (Qdrant, F
 Languages       C++ · Python · JavaScript (ES6+) · TypeScript · SQL
 
 Tools           Git · GitHub · Postman · Render · Vercel
+
+
+---
+
+### 🧩 Problem Solving
+
+800+ problems solved across platforms, 450+ on LeetCode — outperforming 99% of LeetCode users.
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/lumenbyte/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/lumenbyte/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/lumenbyte)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/lumenbyte)
+
+---
+
+### 📊 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lumen-byte&theme=react-dark&area=true&hide_border=false&color=9370DB&point=4B0082" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Also co-authored an IEEE-accepted paper on ML-based decision models for mobile edge computing.</sub>
+  <br/><br/>
+  <sub>Open to Full-Stack and Backend Engineering roles — <a href="mailto:abhimanyu2004111@gmail.com">let's talk</a></sub>
+</div>
